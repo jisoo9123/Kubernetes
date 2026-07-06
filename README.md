@@ -30,4 +30,3 @@
 
 09 : Gateway API
 
-labs : 종합 실습
